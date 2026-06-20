@@ -1,5 +1,7 @@
 The original Waveshare example for the Nucleo-F103RB is here:
+
 https://www.waveshare.com/wiki/2.4inch_LCD_Module#STM32_Hardware_Connection
+
 https://www.waveshare.com/wiki/2.4inch_LCD_Module#Using_with_STM32
 
 I adopted it for the Nucleo-F767ZI.
